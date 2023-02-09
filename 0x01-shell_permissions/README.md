@@ -5,3 +5,4 @@
 3-new_owner: changes the owndership of the file hello
 4-empty: creates an empty hello file
 5-execute: adds an execute mode to the owner of the hello file
+6-multiple_permissions: adds execute mode to file owner and group of file owner and read mode to other users
