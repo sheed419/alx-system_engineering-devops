@@ -8,3 +8,4 @@
 6-multiple_permissions: adds execute mode to file owner and group of file owner and read mode to other users
 7-everybody: execute mode for everybody
 8-James_Bond: no permission to owner and owner group but all permissions to others
+9-John_Doe: -rwxr-x-wx 
