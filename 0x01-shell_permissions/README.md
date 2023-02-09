@@ -9,3 +9,4 @@
 7-everybody: execute mode for everybody
 8-James_Bond: no permission to owner and owner group but all permissions to others
 9-John_Doe: -rwxr-x-wx 
+10-mirror_permissions: copies the permissions of hello to olleh
