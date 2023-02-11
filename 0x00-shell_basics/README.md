@@ -3,3 +3,4 @@
 2-bring_me_home: changes any directory to the home directory
 3-listfiles: lists current diresctory files in long format
 4-listmorefiles: lists all files including hidden ones in long format
+5-listfilesdigitonly: lists numerical values of files including hidden ones
