@@ -7,3 +7,4 @@
 6-third_line: displays the thirdline of the iacta file
 7-file: a strange fillename
 8-cwd_state: writes the results of ls into a file
+9-duplicate_last_line: duplicate the last line of the iacta file
