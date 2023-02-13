@@ -5,3 +5,4 @@
 4-lastlines: displaysthe last10 lines ofthe /etc/passwd file
 5-firstlines: displays the first 10 lines of the /etc/passwd file
 6-third_line: displays the thirdline of the iacta file
+7-file: a strange fillename
