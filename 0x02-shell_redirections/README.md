@@ -13,3 +13,4 @@
 12-newest_files: shows the newest files in the directory
 13-unique: takes alist of words and prints out the ones that occur once
 14-findthatword: displays words containingg the pattern "root" in the /etc/passwd file
+15-countthatword: displays the lines that contain the pattern "bin" in the /etc/passwd file
