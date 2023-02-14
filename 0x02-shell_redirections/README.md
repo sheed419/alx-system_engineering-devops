@@ -8,3 +8,4 @@
 7-file: a strange fillename
 8-cwd_state: writes the results of ls into a file
 9-duplicate_last_line: duplicate the last line of the iacta file
+10-no_more_js: deletes all js files
